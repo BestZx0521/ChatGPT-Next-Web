@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           麻香嘴AI
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          打造藤椒产业全球卓越供应链.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
